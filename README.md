@@ -1,7 +1,6 @@
 # Medic-site
-Jest to witryna internetowa przychodni lekerskiej,
-Mamy system logowania, jako admin lub jako pajcent.
-jako admin możemy edytować  pacjętów, lekarzy.
-jako pacjent możemy założyć konto pacjenta, oraz umówić wizytę u lekarza.
-lekarz może zostać dodany tylko przez admina.
-jest wykorzystana metodyka sesji by pamiętać logowanie. 
+This is the website of a medical clinic,
+We have a login system, as an admin or as a pajcent.
+as admin we can edit patients and doctors.
+as a patient, we can set up a patient's account and make an appointment with a doctor.
+the doctor can only be added by the admin.
